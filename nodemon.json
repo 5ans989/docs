@@ -2,10 +2,16 @@
   "ext": "js,json,yml,md,html,scss",
   "ignore": [
     "assets",
-    "scripts",
+    "script",
+    "tests",
+    "content",
     "translations",
-    "dist",
-    "javascripts",
-    "stylesheets"
+    "data/reusables",
+    "data/variables",
+    "data/glossaries",
+    "data/product-examples",
+    "data/learning-tracks",
+    "rest-api-description",
+    "semmle-code"
   ]
 }
